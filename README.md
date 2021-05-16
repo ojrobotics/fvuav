@@ -1,4 +1,4 @@
-# Formal verification of UAVs 
+# Isabelle and MetiTraski Code for Controller Verification of an Attitude Controller for Multirotor UAVs
 
 
   * The file "IsabelleHOL code/Quadrotor_Veri.thy" includes controller verification code of Isabelle/HOL.
