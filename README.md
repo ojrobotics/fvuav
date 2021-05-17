@@ -1,6 +1,18 @@
 # Isabelle and MetiTraski Code for Controller Verification of an Attitude Controller for Multirotor UAVs
 
 
+This repository contains the Isabelle and MetiTarski codes to illistrate the use of 
+formal computer based techniques to verify 
+(1) the control theory and
+(2) realtime testing of stability onboard, 
+both of which support support the safe operation of an unmanned multi-rotor aircraft. 
+
+Extensive  mathematical derivations, which have formerly been carried out manually, 
+are checked for their correctness by use of the Isabelle code. Higher-order logic 
+interactive theorem-provers and an automated theorem-provers are to be used when 
+this code is run.  
+
+
   * The file "IsabelleHOL code/Quadrotor_Veri.thy" includes controller verification code of Isabelle/HOL.
   * The files "MetiTarski code/Stability_Eq47.tptp" and "MetiTarski code/Stability_Eq49.tptp" include stability testing code of MetiTarski.
   * The files "MetiTarski code/Proofs/Stability_Eq47.tstp" and "MetiTarski code/Proofs/Stability_Eq49.tstp" include the proofs of codes implemented in MetiTarski.
