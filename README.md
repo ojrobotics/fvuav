@@ -5,6 +5,7 @@ This repository contains the Isabelle and MetiTarski codes to illistrate the use
 formal computer based techniques to verify 
 
 (1) the control theory and
+
 (2) realtime testing of stability onboard, 
 
 both of which support support the safe operation of an unmanned multi-rotor aircraft. 
