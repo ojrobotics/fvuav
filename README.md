@@ -1,5 +1,5 @@
 # Isabelle and MetiTraski Code for Controller Verification of an Attitude Controller for Multirotor UAVs
-## Paper title: Verification Framework for Control Theory of Aircraft
+## Paper title: Verification Framework for Control Theory of Aircraft - Omar A. Jasim and Sandor M. Veres
 
 This repository contains the Isabelle and MetiTarski codes to illistrate the use of 
 formal computer based techniques to verify 
